@@ -1,0 +1,8 @@
+Aula 2 - RFC E ADR
+Fase 5 - Entreprise Architecture & Liderança
+Capítulo: Gestão da mudança em TI
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624451&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624456
+
+Obs.: links exigem login na plataforma FIAP.

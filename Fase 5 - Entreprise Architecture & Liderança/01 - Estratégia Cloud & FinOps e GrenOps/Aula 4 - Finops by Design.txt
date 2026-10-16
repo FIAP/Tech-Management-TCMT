@@ -1,0 +1,8 @@
+Aula 4 - Finops by Design
+Fase 5 - Entreprise Architecture & Liderança
+Capítulo: Estratégia Cloud & FinOps e GrenOps
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624415&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624420
+
+Obs.: links exigem login na plataforma FIAP.

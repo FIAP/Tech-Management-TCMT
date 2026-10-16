@@ -1,0 +1,8 @@
+Aula 4 - Governança, Compliance e Segurança em Dados e IA
+Fase 4 - IT Product development
+Capítulo: Data Science & IA
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614066&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614071
+
+Obs.: links exigem login na plataforma FIAP.

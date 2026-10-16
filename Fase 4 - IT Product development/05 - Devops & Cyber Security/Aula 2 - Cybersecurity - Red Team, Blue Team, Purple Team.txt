@@ -1,0 +1,8 @@
+Aula 2 - Cybersecurity - Red Team, Blue Team, Purple Team
+Fase 4 - IT Product development
+Capítulo: Devops & Cyber Security
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614075&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614080
+
+Obs.: links exigem login na plataforma FIAP.

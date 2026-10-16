@@ -1,0 +1,8 @@
+Aula 4 - Propostas Arquiteturais com RFCs e ADRs
+Fase 4 - IT Product development
+Capítulo: Arquiteturas de Software
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614037&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614042
+
+Obs.: links exigem login na plataforma FIAP.

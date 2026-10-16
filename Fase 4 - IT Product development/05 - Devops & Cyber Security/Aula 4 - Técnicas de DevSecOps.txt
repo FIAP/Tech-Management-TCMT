@@ -1,0 +1,8 @@
+Aula 4 - Técnicas de DevSecOps
+Fase 4 - IT Product development
+Capítulo: Devops & Cyber Security
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614077&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614082
+
+Obs.: links exigem login na plataforma FIAP.

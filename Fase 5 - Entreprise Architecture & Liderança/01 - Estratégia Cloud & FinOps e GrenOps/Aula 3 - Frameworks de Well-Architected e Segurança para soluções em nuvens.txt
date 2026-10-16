@@ -1,0 +1,8 @@
+Aula 3 - Frameworks de Well-Architected e Segurança para soluções em nuvens
+Fase 5 - Entreprise Architecture & Liderança
+Capítulo: Estratégia Cloud & FinOps e GrenOps
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624414&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624419
+
+Obs.: links exigem login na plataforma FIAP.

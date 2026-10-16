@@ -1,0 +1,8 @@
+Aula 2 - Criando componentes com SOA
+Fase 3 - IT Architectering defining
+Capítulo: EA - Enterprise Archictecture
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582732&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582736
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 3 - Requisitos Funcionais e Não Funcionais
+Fase 4 - IT Product development
+Capítulo: Arquiteturas de Software
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614036&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614041
+
+Obs.: links exigem login na plataforma FIAP.
