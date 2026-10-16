@@ -1,6 +1,6 @@
-# [Nome do curso] - [CURSO]
+# Tech Management - TCMT
 
-Este repositório contém o materiais complementares divididos por fases, categorias e aulas.
+Este repositório contém os materiais complementares divididos por fases, categorias e aulas.
 
 >[!WARNING]
 >Encontrou algum erro, material desatualizado ou material faltando? Crie uma [issue](/issues/new) ou, se preferir, um Pull Request sugerindo uma atualização.
