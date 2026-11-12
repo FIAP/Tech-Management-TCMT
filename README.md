@@ -22,12 +22,15 @@ Este repositório contém os materiais complementares divididos por fases, categ
 - [02 - Gestão de times ageis e multidisciplinares](./Fase%202%20-%20Squads%20generation/02%20-%20Gest%C3%A3o%20de%20times%20ageis%20e%20multidisciplinares)
 - [03 - Gestão Financeira e Sourcing](./Fase%202%20-%20Squads%20generation/03%20-%20Gest%C3%A3o%20Financeira%20e%20Sourcing)
 - [04 - Comunicação e negociação em projetos de TI](./Fase%202%20-%20Squads%20generation/04%20-%20Comunica%C3%A7%C3%A3o%20e%20negocia%C3%A7%C3%A3o%20em%20projetos%20de%20TI)
+- [IA para Times Híbridos](./Fase%202%20-%20Squads%20generation/IA%20para%20Times%20H%C3%ADbridos)
 
 ## [Fase 3 - IT Architectering defining](./Fase%203%20-%20IT%20Architectering%20defining)
 - [01 - EA - Enterprise Archictecture](./Fase%203%20-%20IT%20Architectering%20defining/01%20-%20EA%20-%20Enterprise%20Archictecture)
 - [02 - Direito Digital](./Fase%203%20-%20IT%20Architectering%20defining/02%20-%20Direito%20Digital)
 - [03 - Privacy By Design e By Default](./Fase%203%20-%20IT%20Architectering%20defining/03%20-%20Privacy%20By%20Design%20e%20By%20Default)
-- [04 - Gestão de Desenvolvimento de Software](./Fase%203%20-%20IT%20Architectering%20defining/04%20-%20Gest%C3%A3o%20de%20Desenvolvimento%20de%20Software)
+- [04 - Software Engineering & Solution Design](./Fase%203%20-%20IT%20Architectering%20defining/04%20-%20Software%20Engineering%20%26%20Solution%20Design)
+- [IA para Engenharia](./Fase%203%20-%20IT%20Architectering%20defining/IA%20para%20Engenharia)
+- [Mentoria Liderança Tech](./Fase%203%20-%20IT%20Architectering%20defining/Mentoria%20Lideran%C3%A7a%20Tech)
 
 ## [Fase 4 - IT Product development](./Fase%204%20-%20IT%20Product%20development)
 - [01 - Arquiteturas de Software](./Fase%204%20-%20IT%20Product%20development/01%20-%20Arquiteturas%20de%20Software)
@@ -35,6 +38,7 @@ Este repositório contém os materiais complementares divididos por fases, categ
 - [03 - Integrações de plataforma e ecossistemas](./Fase%204%20-%20IT%20Product%20development/03%20-%20Integra%C3%A7%C3%B5es%20de%20plataforma%20e%20ecossistemas)
 - [04 - Data Science & IA](./Fase%204%20-%20IT%20Product%20development/04%20-%20Data%20Science%20%26%20IA)
 - [05 - Devops & Cyber Security](./Fase%204%20-%20IT%20Product%20development/05%20-%20Devops%20%26%20Cyber%20Security)
+- [IA para Governança](./Fase%204%20-%20IT%20Product%20development/IA%20para%20Governan%C3%A7a)
 
 ## [Fase 5 - Entreprise Architecture & Liderança](./Fase%205%20-%20Entreprise%20Architecture%20%26%20Lideran%C3%A7a)
 - [01 - Estratégia Cloud & FinOps e GrenOps](./Fase%205%20-%20Entreprise%20Architecture%20%26%20Lideran%C3%A7a/01%20-%20Estrat%C3%A9gia%20Cloud%20%26%20FinOps%20e%20GrenOps)
@@ -43,5 +47,6 @@ Este repositório contém os materiais complementares divididos por fases, categ
 - [04 - Cultura organizacional](./Fase%205%20-%20Entreprise%20Architecture%20%26%20Lideran%C3%A7a/04%20-%20Cultura%20organizacional)
 - [05 - Gestão da mudança em TI](./Fase%205%20-%20Entreprise%20Architecture%20%26%20Lideran%C3%A7a/05%20-%20Gest%C3%A3o%20da%20mudan%C3%A7a%20em%20TI)
 - [06 - Advanced Leadership Skills](./Fase%205%20-%20Entreprise%20Architecture%20%26%20Lideran%C3%A7a/06%20-%20Advanced%20Leadership%20Skills)
+- [IA para Liderança](./Fase%205%20-%20Entreprise%20Architecture%20%26%20Lideran%C3%A7a/IA%20para%20Lideran%C3%A7a)
 
 <!-- INDEX:END -->
